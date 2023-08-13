@@ -1,0 +1,2 @@
+# namaste-sql
+Namaste SQL 
